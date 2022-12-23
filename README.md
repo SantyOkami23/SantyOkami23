@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santy</h1>
+<h1 align="center">Hi 👋, mi nombre es Santy </h1>
 <h3 align="center">Soy estudiante de ingenieria en Sistemas y Computación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santyokami23&label=Profile%20views&color=0e75b6&style=flat" alt="santyokami23" /> </p>
