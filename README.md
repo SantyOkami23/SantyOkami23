@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 <h1 align="center">Hola 👋, mi nombre es Santy</h1>
