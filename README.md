@@ -16,8 +16,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyokami23&show_icons=true&locale=en&layout=compact" alt="santyokami23" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santyokami23&show_icons=true&locale=en" alt="santyokami23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santyokami23&" alt="santyokami23" /></p>
